@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VU_KNF_Note_App</string>
+    <string name="add_note">Add new note</string>
+    <string name="title">Title</string>
+    <string name="description">Decription</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="notes">NOTES</string>
+    <string name="add_new_note">Add new note</string>
+</resources>
